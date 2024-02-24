@@ -24,11 +24,14 @@ Key components and goals of the project:
 !pip install numpy
 !pip install pandas
 !pip install opencv-python
-!pip install Pillow
+!pip install Pillow 
 !pip install tensorflow
 !pip install matplotlib
 !pip install scikit-learn
 ```
+**Pillow** is an image processing library that extends from Python Imaging Library (PIL). For resizing images, filters and image formats.<br>
+**opencv-python** is used for computer vision and image processing (Open Source Computer Vision Library). Provides tools and functions for image/video analysis, object detection and more<br>
+**tensorflow** is an open-source machine learning framework from Google. Provides tools for building and training machine learning models, especially deep NN
 
 ## Progress Log
 - **2024.02.17** Cleaned retrieve_data.py
