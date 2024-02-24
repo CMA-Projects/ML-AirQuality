@@ -10,7 +10,6 @@ api_key = 'AIzaSyBSJL1d-xJz4pOfAw64rRI4bqnb9nHon7w'
 zoom_level = 19
 image_size = '600x300'
 
-# 
 coordinates_list = [(31.128750, 121.432415), 
                     (31.125760, 121.419155), 
                     (31.058295, 121.149336),

@@ -1,8 +1,12 @@
-[AQI Source 1](https://sthj.sh.gov.cn/kqzlssfb/index.html)<br>
+# Air Quality Project
+
+## Overview
+## References
+[AQI Source 1](https://sthj.sh.gov.cn/kqzlssfb/index.html)
 
 [AQI Source 2](https://www.qweather.com//air/hongkou-101021600.html)
 
-Below are all packages needed to run the train_data.ipynb in a virtual environment
+#### Packages
 ```
 !pip install numpy
 !pip install pandas
@@ -12,3 +16,7 @@ Below are all packages needed to run the train_data.ipynb in a virtual environme
 !pip install matplotlib
 !pip install scikit-learn
 ```
+
+## Progress Log
+- **2024.02.17** Cleaned retrieve_data.py
+    - Plan on separating the lists onto a different file to make it easier
