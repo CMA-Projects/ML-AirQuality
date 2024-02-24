@@ -70,7 +70,7 @@ def main():
             aqi_list.append(aqi)
 
     # Update the CSV file using pandas
-    csv_file_path = 'data/aqi_data2.csv'
+    csv_file_path = 'data/screenshot_aqi.csv'
     update_csv(file_names, aqi_list, csv_file_path)
 
 if __name__ == "__main__":
