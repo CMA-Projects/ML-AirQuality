@@ -41,7 +41,7 @@ Key components and goals of the project:
     - .py was reorganized into functions to make more modular
     - .py was changed to use pandas instead of csv
     - Renamed files more appropriately
-    - Next time we just need to collect more data
+    - Next time we just need to collect more data and organize file names more
 
 ## References
 AQI [Source 1](https://sthj.sh.gov.cn/kqzlssfb/index.html)
