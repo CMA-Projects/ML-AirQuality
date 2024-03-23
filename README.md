@@ -1,5 +1,7 @@
 # Air Quality Project
+Presentation slides [link](https://docs.google.com/presentation/d/19RpWq895F8RyHNnj4OD2jnv7RgrTMTukpzq1j-64tR8/edit?usp=sharing)
 
+Research paper [link](https://docs.google.com/document/d/1zJ5VKFvjn8Zas2l3dZkscJnHlurqETFyhemlzf49Sf0/edit?usp=sharing)
 ## Overview
 The project's primary objective is to leverage Google Street View images for the development of a machine learning model designed to predict air quality. The utilization of Google Street View images introduces a unique approach to environmental data collection, as it allows for the extraction of valuable information from the visual cues present in these images. 
 
