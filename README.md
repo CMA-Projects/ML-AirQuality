@@ -46,6 +46,9 @@ Key components and goals of the project:
     - .py was changed to use pandas instead of csv
     - Renamed files more appropriately
     - Next time we just need to collect more data and organize file names more
+- **2024.03.23** No major code changes
+    - updated dataset (add more)
+    - updated slides
 
 ## References
 AQI [Source 1](https://sthj.sh.gov.cn/kqzlssfb/index.html)
