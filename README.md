@@ -37,6 +37,12 @@ Key components and goals of the project:
 **opencv-python** is used for computer vision and image processing (Open Source Computer Vision Library). Provides tools and functions for image/video analysis, object detection and more<br>
 **tensorflow** is an open-source machine learning framework from Google. Provides tools for building and training machine learning models, especially deep NN
 
+## How to read data_to_retrieve.csv
+2 - 21: ShangHai
+22 - 39: Pudong
+40 - 53: Hangkou
+53 - : Huangpu
+
 ## Progress Log
 - **2024.02.17** Cleaned retrieve_data.py
     - Plan on separating the lists onto a different file to make it easier
@@ -49,7 +55,8 @@ Key components and goals of the project:
 - **2024.03.23** No major code changes
     - updated dataset (add more)
     - updated slides
-
+- **2024.03.29** Added more data to data_to_retrieve.csv
+    - Also implemented a script to predict the AQI of an image using the created model
 ## References
 AQI [Source 1](https://sthj.sh.gov.cn/kqzlssfb/index.html)
 
