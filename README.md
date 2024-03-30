@@ -41,7 +41,8 @@ Key components and goals of the project:
 2 - 21: ShangHai
 22 - 39: Pudong
 40 - 53: Hangkou
-53 - : Huangpu
+53 - 59: Huangpu
+60 - 70: Jing'an
 
 ## Progress Log
 - **2024.02.17** Cleaned retrieve_data.py
