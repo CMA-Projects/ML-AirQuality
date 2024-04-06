@@ -58,6 +58,7 @@ Key components and goals of the project:
     - updated slides
 - **2024.03.29** Added more data to data_to_retrieve.csv
     - Also implemented a script to predict the AQI of an image using the created model
+- **2024.04.05** Worked on Research paper and Reference articles
 ## References
 AQI [Source 1](https://sthj.sh.gov.cn/kqzlssfb/index.html)
 
