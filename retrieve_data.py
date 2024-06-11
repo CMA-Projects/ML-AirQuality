@@ -3,7 +3,7 @@ import os
 import pandas as pd
 
 # Google Maps API key
-api_key = 'AIzaSyBSJL1d-xJz4pOfAw64rRI4bqnb9nHon7w'
+api_key = ''
 
 # Parameters for Google Maps API
 zoom_level = 19
